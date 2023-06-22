@@ -2,7 +2,7 @@ class Smartphone {
   final int id;
   final String color;
   final String modelo;
-  final DateTime precio;
+  final int precio;
   final String descripcion;
   bool read;
 
